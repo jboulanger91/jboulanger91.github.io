@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Boulanger-Weill"
+title                    : #"Jonathan Boulanger-Weill"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Post-doctoral Fellow at Harvard University"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jonathan Boulanger-Weill"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Post-doctoral Fellow at Harvard University"
+  location         : "Cambridge, MA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Boulanger-Weill+J&cauthor_id=31708392"
+  googlescholar    : "https://scholar.google.com/citations?user=UCtg7BMAAAAJ&hl=fr"
+  email            : boulangerweill@fas.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
