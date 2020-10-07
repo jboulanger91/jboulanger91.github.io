@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Boulanger-Weill / Site Title"
+title                    : "Jonathan Boulanger-Weill"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Post-doctoral Fellow at Harvard University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jonathan Boulanger-Weill"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
