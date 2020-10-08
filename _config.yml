@@ -51,7 +51,8 @@ atom_feed:
 
 
 #Craft
-header: /images/bio-photo-2.jpg
+header:
+  image: /images/bio-photo-2.jpg
 
 # SEO Related
 google_site_verification :
