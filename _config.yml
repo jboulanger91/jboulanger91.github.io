@@ -8,8 +8,8 @@
 #Craft
 ---
 layout: splash
-header:
-  image: /images/bio-photo-2.jpg
+#header:
+#  image: /images/bio-photo-2.jpg
 ---
 
 # Site Settings
