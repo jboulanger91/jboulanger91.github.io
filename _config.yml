@@ -5,13 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-#Craft
----
-layout: splash
-#header:
-#  image: /images/bio-photo-2.jpg
----
-
 # Site Settings
 locale                   : "en-US"
 title                    : #"Jonathan Boulanger-Weill"
