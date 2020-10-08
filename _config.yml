@@ -49,6 +49,10 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+#Craft
+header: /assets/images/filename.jpg
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
