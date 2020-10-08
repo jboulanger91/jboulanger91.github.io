@@ -5,6 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      
+---
+header:
+  image: /images/image-alignment-1200x4002.jpg
+  ---
+
 # Site Settings
 locale                   : "en-US"
 title                    : #"Jonathan Boulanger-Weill"
